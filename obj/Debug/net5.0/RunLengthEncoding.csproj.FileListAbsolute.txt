@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\DataStructureAndAlgo\RunLengthEncoding\bin\Debug\net5.0\RunLengthEncoding.exe
+C:\Users\DELL\Desktop\DataStructureAndAlgo\RunLengthEncoding\bin\Debug\net5.0\RunLengthEncoding.deps.json
+C:\Users\DELL\Desktop\DataStructureAndAlgo\RunLengthEncoding\bin\Debug\net5.0\RunLengthEncoding.runtimeconfig.json
+C:\Users\DELL\Desktop\DataStructureAndAlgo\RunLengthEncoding\bin\Debug\net5.0\RunLengthEncoding.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\DataStructureAndAlgo\RunLengthEncoding\bin\Debug\net5.0\RunLengthEncoding.dll
+C:\Users\DELL\Desktop\DataStructureAndAlgo\RunLengthEncoding\bin\Debug\net5.0\ref\RunLengthEncoding.dll
+C:\Users\DELL\Desktop\DataStructureAndAlgo\RunLengthEncoding\bin\Debug\net5.0\RunLengthEncoding.pdb
+C:\Users\DELL\Desktop\DataStructureAndAlgo\RunLengthEncoding\obj\Debug\net5.0\RunLengthEncoding.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\DataStructureAndAlgo\RunLengthEncoding\obj\Debug\net5.0\RunLengthEncoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\DataStructureAndAlgo\RunLengthEncoding\obj\Debug\net5.0\RunLengthEncoding.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\DataStructureAndAlgo\RunLengthEncoding\obj\Debug\net5.0\RunLengthEncoding.AssemblyInfo.cs
+C:\Users\DELL\Desktop\DataStructureAndAlgo\RunLengthEncoding\obj\Debug\net5.0\RunLengthEncoding.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\DataStructureAndAlgo\RunLengthEncoding\obj\Debug\net5.0\RunLengthEncoding.dll
+C:\Users\DELL\Desktop\DataStructureAndAlgo\RunLengthEncoding\obj\Debug\net5.0\ref\RunLengthEncoding.dll
+C:\Users\DELL\Desktop\DataStructureAndAlgo\RunLengthEncoding\obj\Debug\net5.0\RunLengthEncoding.pdb
+C:\Users\DELL\Desktop\DataStructureAndAlgo\RunLengthEncoding\obj\Debug\net5.0\RunLengthEncoding.genruntimeconfig.cache
